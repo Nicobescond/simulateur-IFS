@@ -1,0 +1,9 @@
+# Liste blanche : tout est ignoré sauf les fichiers ci-dessous.
+# Les sources en clair (HTML, questions JS, PDF, docx...) ne doivent jamais être publiées.
+*
+!.gitignore
+!README.md
+!build.mjs
+!.staticrypt.json
+!docs/
+!docs/index.html
